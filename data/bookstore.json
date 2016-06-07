@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Harry Potter",
+    "author": "J.K. Rowling",
+    "price": {
+      "currency": "USD",
+      "price": 29.99
+    }
+  },
+  {
+    "title": "Learning XML",
+    "author": "Eric T. Ray",
+    "price": {
+      "currency": "USD",
+      "price": 39.95
+    }
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "price": {
+      "currency": "EUR",
+      "price": 25
+    }
+  }
+]

@@ -1,0 +1,17 @@
+<bookstore>
+    <book>
+        <title>Harry Potter</title>
+        <author>J.K. Rowling</author>
+        <price currency="USD">29.99</price>
+    </book>
+    <book>
+        <title>Learning XML</title>
+        <author>Eric T. Ray</author>
+        <price currency="USD">39.95</price>
+    </book>
+    <book>
+        <title>Hamlet</title>
+        <author>William Shakespeare</author>
+        <price currency="EUR">25</price>
+    </book>
+</bookstore>
