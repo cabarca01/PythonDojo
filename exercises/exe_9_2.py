@@ -1,5 +1,7 @@
 import re
 
+# From louis@media.berkeley.edu Fri Jan  4 18:10:48 2008
+
 fhandler = open("../data/mbox-short.txt")
 pattern = re.compile("^From .* ([0-9][0-9]):", flags=re.IGNORECASE)
 morning = 0
