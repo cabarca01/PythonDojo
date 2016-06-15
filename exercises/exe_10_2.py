@@ -27,5 +27,5 @@ count = 0
 for comment, name in table:
     print "%-15s %d" % (name, comment)
     count += 1
-    if count == 5:
+    if count == 10:
         break
